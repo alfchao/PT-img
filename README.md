@@ -6,3 +6,5 @@ PT img  GitHub免费图床
 2. 其它图床插件安装 https://github.com/PicGo/Awesome-PicGo
 ## 使用方法
 同上
+
+blog下暂为博客图床
